@@ -35,11 +35,10 @@ Cada problema de LeetCode tiene su propio paquete con la siguiente convención d
 `pXXXX_nombre_del_problema`, donde XXXX es el número del problema en LeetCode.
 
 ## Lista de Problemas Resueltos
-
-| #    | Título | Dificultad | Solución | Explicación |
-|------|--------|------------|----------|-------------|
-| 0001 | [Two Sum](./src/main/java/cl/playground/leetcode/p0001_two_sum/README_problema.md) | Fácil | [Java](./src/main/java/cl/playground/leetcode/p0001_two_sum/Solucion0001.java) | [Explicación](./src/main/java/cl/playground/leetcode/p0001_two_sum/README_solucion.md) |
-| 0009 | [Palindrome Number](./src/main/java/cl/playground/leetcode/p0009_palindrome_number/README_problema.md) | Fácil | [Java](./src/main/java/cl/playground/leetcode/p0009_palindrome_number/Solucion0009.java) | [Explicación](./src/main/java/cl/playground/leetcode/p0009_palindrome_number/README_solucion.md) |
+| #    | Título | Dificultad | Solución | Test | Explicación |
+|------|--------|------------|----------|------|-------------|
+| 0001 | [Two Sum](./src/main/java/cl/playground/leetcode/p0001_two_sum/README_problema.md) | Fácil | [Java](./src/main/java/cl/playground/leetcode/p0001_two_sum/Solucion0001.java) | [Test](./src/test/java/cl/playground/leetcode/p0001_two_sum/Solucion0001Test.java) | [Explicación](./src/main/java/cl/playground/leetcode/p0001_two_sum/README_solucion.md) |
+| 0009 | [Palindrome Number](./src/main/java/cl/playground/leetcode/p0009_palindrome_number/README_problema.md) | Fácil | [Java](./src/main/java/cl/playground/leetcode/p0009_palindrome_number/Solucion0009.java) | [Test](./src/test/java/cl/playground/leetcode/p0009_palindrome_number/Solucion0009Test.java) | [Explicación](./src/main/java/cl/playground/leetcode/p0009_palindrome_number/README_solucion.md) |
 
 ## Cómo usar este repositorio
 
